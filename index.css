@@ -1,0 +1,32 @@
+body {
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+  background-color: #1e212b;
+}
+
+p,
+h2,
+h1 {
+  text-align: center;
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.title {
+  color: red;
+}
+.card {
+  margin: 32px;
+  padding: 64px;
+  background-color: white;
+}
+
+.card,
+.title {
+  border: 3px yellowgreen solid;
+}

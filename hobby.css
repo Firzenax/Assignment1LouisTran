@@ -1,0 +1,25 @@
+body {
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+  background-color: #1e212b;
+}
+
+p,
+h2,
+ul,
+li {
+  text-align: center;
+}
+.card {
+  margin: 32px;
+  padding: 64px;
+  background-color: white;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
