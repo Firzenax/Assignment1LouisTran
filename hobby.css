@@ -2,7 +2,7 @@ body {
   margin: auto;
   width: 50%;
   padding: 10px;
-  background-color: #1e212b;
+  background-color: white;
 }
 
 p,
@@ -14,7 +14,6 @@ li {
 .card {
   margin: 32px;
   padding: 64px;
-  background-color: white;
 }
 
 img {
